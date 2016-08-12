@@ -1,0 +1,21 @@
+body
+{
+	background-image: url("https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smbg.png"); 
+	margin:0;
+	padding:0;
+}
+.logo
+{
+	margin-left:5.5%;
+	padding: 1.25em 0;
+	width:38.2%;
+	display: inline-block;
+}
+.menu_btn
+{
+	display:inline-block;
+}
+.logo img
+{
+	width:100%;
+}
