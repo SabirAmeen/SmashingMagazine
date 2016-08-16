@@ -1,0 +1,192 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	background-image: url("https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smbg.png"); 
+	margin-left:12px;
+
+}
+.logo
+{
+	background-color:white;
+	margin:0;
+	padding-top:1.5rem;
+	padding-left:0.75rem;
+	width:10%;
+	padding-right:1rem;
+	display: inline-block;
+	height:3rem;
+}
+.logo a img
+{
+	width:100%;
+}
+.main-nav
+{	display:inline-block;
+	list-style: none;
+	height:3.5rem;
+
+}
+.main-nav li:hover
+{
+	background-color: yellow;
+}
+a
+{
+	text-decoration:none;
+	text-decoration-color: none;
+}
+.main-nav li a
+{
+	color: rgba(0,0,0,0.5);
+}
+.main-nav li
+{
+	float:left;
+	padding-left:1.5rem;
+	border-right: 0.08rem solid rgba(0,0,0,.05);
+	padding-right:1rem;
+	line-height: 3rem;
+	vertical-align: middle;
+	padding-top: 1.5rem;
+	
+}
+.right-bar
+{
+	float:right;
+	padding-right: 2rem;
+	width:30%;
+
+}
+.search-head
+{
+	position: relative;
+	top:-2rem;
+	font-weight: 400;
+	color:rgba(0,0,0,0.25);
+}
+.search-box
+{	
+	height:2rem;
+	width:70%;
+	padding-left: 1rem;
+	border-top-left-radius: 0.5rem;
+	border-bottom-left-radius: 0.5rem;
+	position: relative;
+}
+.search-btn
+{	display: inline-block;
+	width:5rem;
+	height:1.8rem;
+	border:0.2rem solid #c73a11;
+	background-color: #e95c33;
+	text-align: center;
+	vertical-align: middle;
+	color:white;
+	position: absolute;
+	border-top-right-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+}
+section
+{
+	background-color:white;
+	width:65%;
+	padding-top:4rem;
+	border-top-right-radius: 1rem;
+	
+}
+.side-nav li
+{
+	padding-left:2rem;
+}
+.side-nav li a{
+	color:#777;
+}
+.side-nav li:hover
+{
+	background-color: yellow;
+}
+.sect div h3 a
+{
+	color:#333;
+}
+.sect div h3
+{
+	padding-left: 2rem;
+	height: 2rem;
+}
+.sect div h3:hover
+{
+	background-color: yellow;
+}
+.nav-coding{
+	border-left:0.5rem solid #C9E9E5;
+	width:20%;
+	padding-bottom: 2rem;
+
+}
+.nav-coding:hover
+{
+	border-left:0.5rem solid #41b7d8;
+}
+.nav-design{
+	border-left:0.5rem solid #CDEEAA;
+	padding-bottom:2rem;
+	width:20%;
+}
+.nav-design:hover
+{
+	border-left:0.5rem solid #6ECE0A;
+}
+.nav-mobile
+{
+	border-left:0.5rem solid #F9F0A8;
+	padding-bottom:2rem;
+	width:20%;
+}
+.nav-mobile:hover
+{
+	border-left:0.5rem solid #EBD203;
+}
+.nav-graphics
+{
+	border-left:0.5rem solid #E0CFDF;
+	padding-bottom:2rem;
+	width:20%;
+}
+.nav-graphics:hover
+{
+	border-left:0.5rem solid #A675A2;
+}
+.nav-uxdesign
+{
+	border-left:0.5rem solid #FACED2;
+	padding-bottom:2rem;
+	width:20%;
+}
+.nav-uxdesign:hover
+{
+		border-left:0.5rem solid #F0717C;
+}
+.nav-wordpress
+{
+	border-left:0.5rem solid #BCD8F0;
+	padding-bottom:2rem;
+	width:20%;
+}
+.nav-wordpress:hover
+{
+	border-left:0.5rem solid #3E8DD2;
+}
+.side-nav
+{
+	list-style: none;
+
+}
+.side-nav li
+{
+	padding-top:0.9rem;
+}
